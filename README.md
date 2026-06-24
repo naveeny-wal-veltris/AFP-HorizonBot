@@ -1,2 +1,0 @@
-# AFP-HorizonBot
-AFP-HorizonBot
